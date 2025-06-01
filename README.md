@@ -23,7 +23,7 @@ The purpose of this project is to develop a modular and user-friendly software p
 Download the complete project repository from:
 
 ```
-XZY.com
+[HHG---High-Order-Harmonic-Generation-Simulation-Framework](https://github.com/AndrasTamas9/HHG---High-Order-Harmonic-Generation-Simulation-Framework)
 ```
 
 This includes all necessary source files, scripts, and documentation.

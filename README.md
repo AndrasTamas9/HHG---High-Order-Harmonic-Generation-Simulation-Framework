@@ -1,5 +1,19 @@
 # HHG---High-Order-Harmonic-Generation-Simulation-Framework
 
+# About the Project
+
+This software simulates high-harmonic generation using numerical methods.
+It consists of:
+- a C++ core simulation engine,
+- a Java-based GUI frontend,
+- and a Python integration/management layer.
+
+# Introduction
+
+High-Harmonic Generation (HHG) is a nonlinear optical process that occurs when intense, ultrashort laser pulses interact with atoms or molecules, resulting in the emission of coherent radiation at integer multiples of the driving laser frequency. The simulation of HHG phenomena requires highly accurate numerical models capable of resolving both temporal and spatial variations of the electromagnetic field, as well as the nonlinear atomic response. Due to the inherent complexity of the problem, particularly when modeling at the single-atom level with time-dependent quantum dynamics, a computationally efficient and physically robust simulation framework is required.
+
+The purpose of this project is to develop a modular and user-friendly software platform capable of simulating the nonlinear dipole response of a single atom under a focused laser beam using the Lewenstein model. The system is intended to serve both educational and research purposes, providing intuitive parameter control through a graphical user interface (GUI), while relying on a high-performance C++ backend to carry out the numerically intensive computations. Additionally, the platform should support convergence analysis of the time grid resolution and offer visual feedback in the form of dipole and spectral plots, enabling the user to assess the accuracy and physical validity of the simulation.
+
 # User Documentation
 
 ## Installation and Setup
